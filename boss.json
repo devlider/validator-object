@@ -1,0 +1,9 @@
+{
+	"name": "validator-object",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "www.liderautomacao.com",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
