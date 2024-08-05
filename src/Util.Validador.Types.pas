@@ -53,8 +53,9 @@ uses
   System.JSON.Writers,
   System.JSON.Types,
   System.SysUtils,
-  Domain.Common.Error,
-  System.StrUtils, System.Variants;
+  System.StrUtils, 
+  System.Variants,
+  Util.Validador.Error;
 
 function TExecutorValidador.Add(aComando: IValidacaoBase): IExecutorValidador;
 begin
