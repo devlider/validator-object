@@ -2,7 +2,7 @@
 	"name": "validator-object",
 	"description": "",
 	"version": "1.0.1",
-	"homepage": "www.liderautomacao.com",
+	"homepage": "",
 	"mainsrc": "./src",
 	"projects": [],
 	"dependencies": {}
